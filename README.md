@@ -1,11 +1,11 @@
 Hi there 👋, I’m Kaushik Adithya E
 
-👩🏻‍💻 Full-Stack Developer sharing about my journey and learnings in tech
-📚 Recently completed a comprehensive web development course on Udemy,specializing in HTML, CSS, JavaScript, Node.js, EJS, Postgress and React.
-🌍 Based in [Bangalore]
-💡 I enjoy solving coding challenges and am constantly expanding my skills in frontend and backend technologies.
-🚀 Currently looking for opportunities to apply my expertise in real-world projects and collaborate with fellow developers.
-🌟 Let’s build something amazing together!
+👩🏻‍💻 Full-Stack Developer sharing about my journey and learnings in tech.<br/>
+📚 Recently completed a comprehensive web development course on Udemy.<br/>
+🌍 Based in [Bangalore].<br/>
+💡 I enjoy solving coding challenges and am constantly expanding my skills in frontend and backend technologies.<br/>
+🚀 Currently looking for opportunities to apply my expertise in real-world projects and collaborate with fellow developers.<br/>
+🌟 Let’s build something amazing together!<br/>
 	
 
 ## 🌐 Socials:
