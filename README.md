@@ -1,4 +1,4 @@
-Hi there 👋, I’m Kaushik Adithya E
+# Hi there 👋, I’m Kaushik Adithya E
 
 👩🏻‍💻 Full-Stack Developer sharing about my journey and learnings in tech.<br/>
 📚 Recently completed a comprehensive web development course on Udemy.<br/>
