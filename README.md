@@ -2,7 +2,7 @@ Hi there 👋, I’m Kaushik Adithya E
 
 👩🏻‍💻 Full-Stack Developer sharing about my journey and learnings in tech.<br/>
 📚 Recently completed a comprehensive web development course on Udemy.<br/>
-🌍 Based in [Bangalore].<br/>
+🌍 Based in Bangalore,India.<br/>
 💡 I enjoy solving coding challenges and am constantly expanding my skills in frontend and backend technologies.<br/>
 🚀 Currently looking for opportunities to apply my expertise in real-world projects and collaborate with fellow developers.<br/>
 🌟 Let’s build something amazing together!<br/>
