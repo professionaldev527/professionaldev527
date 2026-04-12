@@ -1,66 +1,62 @@
-# Hi there 👋, I’m Kaushik Adithya E
+# Hi there 👋, I'm Kaushik Adithya E
 
-👩🏻‍💻 Full-Stack Developer sharing about my journey and learnings in tech.<br/>
-📚 Recently completed a comprehensive web development course on Udemy.<br/>
-🌍 Based in Bangalore,India.<br/>
-💡 I enjoy solving coding challenges and am constantly expanding my skills in frontend and backend technologies.<br/>
-🚀 Currently looking for opportunities to apply my expertise in real-world projects and collaborate with fellow developers.<br/>
-🌟 Let’s build something amazing together!<br/>
-	
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kaushikadithyae) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushik-adithya-e-2b54a976/)
+### 🚀 About Me
+I am a **Full-Stack Developer** based in Bangalore, India, passionate about building scalable web applications using the latest web technologies. I specialize in the **Next.js ecosystem**, focusing on serverless architectures, type-safe database management, and seamless user authentication.
 
-# 💻 Tech Stack:
-
-## Languages:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-<!-- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) -->
-
-## Frontend:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-## Backend:
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-
-## Databases:
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-## Tools:
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-%23000000.svg?style=for-the-badge&logo=REST&logoColor=white)
-
-## API Testing:
-![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-
-## AI:
-![ChatGPT](https://img.shields.io/badge/ChatGPT-%2343A047.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
-
-## Cloud & DevOps:
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Linode](https://img.shields.io/badge/linode-%2300A95C.svg?style=for-the-badge&logo=linode&logoColor=white)
-<!-- ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) -->
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=professionaldev527&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=professionaldev527&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=professionaldev527&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 👨‍💻 **Current Focus:** Deep-diving into Serverless Databases and Edge Functions.
+- 🛠 **Building:** Full-stack applications with Next.js, Clerk, and Neon DB.
+- 📚 **Lifelong Learner:** Recently completed intensive full-stack training to sharpen my architectural skills.
+- 💡 **Goal:** To build impactful, performant digital products that solve real-world problems.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=professionaldev527&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💻 My Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | Next.js (App Router), React, Tailwind CSS, TypeScript |
+| **Backend** | Node.js, Next.js Server Actions, API Routes |
+| **Database/ORM** | Prisma, Neon DB (PostgreSQL), MongoDB, Mongoose |
+| **Authentication** | Clerk, NextAuth.js |
+| **Tools & Media** | Cloudinary, Vercel, Git/GitHub, Postman |
+
+---
+
+### 🌟 Featured Projects
+
+#### [Medically](https://next-js-medically.vercel.app/)
+A comprehensive Healthcare/Medical template built with Next.js, featuring modern UI components and responsive design.
+
+#### [Cloudinary Media Manager](https://next-js-cloudinary-prisma-neon-db.vercel.app/)
+A full-stack media management tool utilizing **Prisma ORM** and **Neon DB** for data persistence and **Cloudinary** for optimized image handling.
+
+#### [Full-Stack Task Master](https://next-js-todo-master-clerk-neon-db-p.vercel.app/)
+A robust task management application featuring secure **Clerk Authentication** and a PostgreSQL backend via Neon.
+
+#### [Auth-Ready MongoDB App](https://nextjs-mongodb-full-stack-authentic.vercel.app/)
+A full-stack implementation demonstrating secure authentication flows and CRUD operations with **MongoDB**.
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=professionaldev527&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=professionaldev527&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushik-adithya-e-2b54a976/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kaushikadithyae)
+[![Portfolio](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/professionaldev527)
+
+---
+*“Turning complex problems into simple, elegant code.”*
