@@ -59,11 +59,12 @@ A clean, efficient real-time currency conversion application built using React.
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=professionaldev527&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Kaushik's GitHub stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=professionaldev527&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=professionaldev527&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=professionaldev527&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 ---
 
 ### 🌐 Connect with Me
