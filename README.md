@@ -1,5 +1,13 @@
 # Hi there 👋, I'm Kaushik Adithya E
 
+### 🚀 About Me
+I am a **Full-Stack Developer** based in Bangalore, India, passionate about building scalable web applications using the latest web technologies. I specialize in the **Next.js ecosystem**, focusing on serverless architectures, type-safe database management, and seamless user authentication.
+
+- 👨‍💻 **Current Focus:** Deep-diving into Serverless Databases and Edge Functions.
+- 🛠 **Building:** Full-stack applications with Next.js, Clerk, and Neon DB.
+- 📚 **Lifelong Learner:** Recently completed intensive full-stack training to sharpen my architectural skills.
+- 💡 **Goal:** To build impactful, performant digital products that solve real-world problems.
+
 ### 💻 My Tech Stack
 
 **Frontend**
@@ -40,28 +48,6 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
 </p>
-
-### 🚀 About Me
-I am a **Full-Stack Developer** based in Bangalore, India, passionate about building scalable web applications using the latest web technologies. I specialize in the **Next.js ecosystem**, focusing on serverless architectures, type-safe database management, and seamless user authentication.
-
-- 👨‍💻 **Current Focus:** Deep-diving into Serverless Databases and Edge Functions.
-- 🛠 **Building:** Full-stack applications with Next.js, Clerk, and Neon DB.
-- 📚 **Lifelong Learner:** Recently completed intensive full-stack training to sharpen my architectural skills.
-- 💡 **Goal:** To build impactful, performant digital products that solve real-world problems.
-
----
-
-### 💻 My Tech Stack
-
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | Next.js (App Router), React, Tailwind CSS, TypeScript |
-| **Backend** | Node.js, Next.js Server Actions, API Routes |
-| **Database/ORM** | Prisma, Neon DB (PostgreSQL), MongoDB, Mongoose |
-| **Authentication** | Clerk, NextAuth.js |
-| **Tools & Media** | Cloudinary, Vercel, Git/GitHub, Postman |
-
----
 
 ### 🌟 Featured Projects
 
