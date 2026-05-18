@@ -31,17 +31,30 @@ I am a **Full-Stack Developer** based in Bangalore, India, passionate about buil
 
 ### 🌟 Featured Projects
 
-#### [Medically](https://next-js-medically.vercel.app/)
+#### 🏥 Medically
 A comprehensive Healthcare/Medical template built with Next.js, featuring modern UI components and responsive design.
+*   🔗 **Live Demo:** [medically theprofdev.com](https://medically.theprofdev.com/)
+*   💻 **GitHub Repo:** [NextJS-Medically](https://github.com/professionaldev527/NextJS-Medically)
 
-#### [Cloudinary Media Manager](https://next-js-cloudinary-prisma-neon-db.vercel.app/)
+#### 🖼️ Cloudinary Media Manager
 A full-stack media management tool utilizing **Prisma ORM** and **Neon DB** for data persistence and **Cloudinary** for optimized image handling.
+*   🔗 **Live Demo:** [cloudinary.theprofdev.com](https://cloudinary.theprofdev.com/)
+*   💻 **GitHub Repo:** [Next-js-Cloudinary-Prisma-NeonDB](https://github.com/professionaldev527/Next-js-Cloudinary-Prisma-NeonDB)
 
-#### [Full-Stack Task Master](https://next-js-todo-master-clerk-neon-db-p.vercel.app/)
+#### 📝 Full-Stack Task Master
 A robust task management application featuring secure **Clerk Authentication** and a PostgreSQL backend via Neon.
+*   🔗 **Live Demo:** [todo-master.theprofdev.com](https://todo-master.theprofdev.com/)
+*   💻 **GitHub Repo:** [Next-JS-Todo-Master-Clerk-NeonDB](https://github.com/professionaldev527/Next-JS-Todo-Master-Clerk-NeonDB)
 
-#### [Auth-Ready MongoDB App](https://nextjs-mongodb-full-stack-authentic.vercel.app/)
+#### 💱 React Currency Converter
+A clean, efficient real-time currency conversion application built using React.
+*   🔗 **Live Demo:** [React Currency Converter](https://react-currency-converter-lilac.vercel.app/)
+*   💻 **GitHub Repo:** [React-Currency-Converter](https://github.com/professionaldev527/React-Currency-Converter)
+
+#### 🔐 Auth-Ready MongoDB App
 A full-stack implementation demonstrating secure authentication flows and CRUD operations with **MongoDB**.
+*   🔗 **Live Demo:** [MongoDB App Vercel](https://nextjs-mongodb-full-stack-authentic.vercel.app/)
+*   💻 **GitHub Repo:** [NextJS-MongoDB-FullStack-Authentication](https://github.com/professionaldev527/NextJS-MongoDB-FullStack-Authentication)
 
 ---
 
@@ -54,9 +67,9 @@ A full-stack implementation demonstrating secure authentication flows and CRUD o
 ---
 
 ### 🌐 Connect with Me
+[![Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://theprofdev.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushik-adithya-e-2b54a976/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kaushikadithyae)
-[![Portfolio](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/professionaldev527)
 
 ---
 *“Turning complex problems into simple, elegant code.”*
